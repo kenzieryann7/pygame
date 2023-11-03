@@ -12,6 +12,7 @@ Pygame Front Page
    tut/ko/**/*
    c_api
    filepaths
+   macinstall
    logos
 
 Quick start
@@ -45,6 +46,9 @@ Documents
 `Install`_
   Steps needed to compile pygame on several platforms.
   Also help on finding and installing prebuilt binaries for your system.
+
+:doc:`macinstall`
+  How to install pygame on Mac OS.
 
 :doc:`filepaths`
   How pygame handles file system paths.
